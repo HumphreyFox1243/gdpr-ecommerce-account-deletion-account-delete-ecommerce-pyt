@@ -1,0 +1,1 @@
+"""Ecommerce account deletion example."""
